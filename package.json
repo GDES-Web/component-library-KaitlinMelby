@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GDES-Web/component-library-KaitlinMelby/issues"
   },
-  "homepage": "https://github.com/GDES-Web/component-library-KaitlinMelby#readme"
+  "homepage": "https://github.com/GDES-Web/component-library-KaitlinMelby#readme",
+  "devDependencies": {
+    "sass": "^1.62.0"
+  }
 }
